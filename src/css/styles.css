@@ -63,7 +63,7 @@ body {
       transition: transform 0.5s;
        border: 1px solid red;
        flex: 1 0 auto;
-       
+       display: flex;
     }
 
     .panel p {

@@ -86,4 +86,10 @@ body {
     .panel.open {
       font-size: 40px;
       flex: 5;
+        color: #ffc600;
     }
+.panel:hover {
+  color: #ffc600;
+}
+
+

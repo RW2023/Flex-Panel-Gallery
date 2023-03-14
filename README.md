@@ -23,7 +23,3 @@ To run the project, simply download or clone the repository and open the `index.
 ## <u>**Credits**</u>
 
 <u>The project was created by [Wes Bos](https://wesbos.com/) as a part of his [JavaScript30](https://javascript30.com/) course. All credit for the HTML, CSS, and JavaScript starter code goes to him.</u>
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).

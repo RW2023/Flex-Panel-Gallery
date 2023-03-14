@@ -104,7 +104,7 @@ body {
 .panel.open {
   font-size: 40px;
   flex: 5;
-  color: #ffc600;
+  color: black;
 }
 .panel:hover {
   color: #ffc600;

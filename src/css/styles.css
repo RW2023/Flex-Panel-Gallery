@@ -109,3 +109,8 @@ body {
 .panel:hover {
   color: #ffc600;
 }
+
+.panel span {
+  /* background-color: yellow; */
+  color: red;
+}
